@@ -9,6 +9,7 @@ Currently building my portfolio and seeking remote DA opportunities.
 ![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
 ![Power BI](https://img.shields.io/badge/Power-BI-yellow)
 ![Excel](https://img.shields.io/badge/Microsoft-Excel-green)
+![Python](https://img.shields.io/badge/Python-Basic-orange)
 
 ## 📊 Projects
 
