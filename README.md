@@ -1,34 +1,33 @@
 # Hi, I'm Anirban 👋
+## Data Analyst | SQL • Power BI • Python | Burdwan, India
 
-## Aspiring Data Analyst from Burdwan, India
-
-I turn raw data into business insights using SQL, Power BI and Excel.
-Currently building my portfolio and seeking remote DA opportunities.
+I turn raw data into actionable business insights.
+Open to remote Data Analyst opportunities.
 
 ## 🛠️ Skills
 ![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
 ![Power BI](https://img.shields.io/badge/Power-BI-yellow)
+![Python](https://img.shields.io/badge/Python-Pandas-orange)
 ![Excel](https://img.shields.io/badge/Microsoft-Excel-green)
-![Python](https://img.shields.io/badge/Python-Basic-orange)
 
 ## 📊 Projects
 
 ### 🏏 IPL Performance Analysis
-- Analyzed 255,759 ball-by-ball deliveries from 2008-2024
-- Built interactive 3-page Power BI dashboard
-- Key insight: Teams batting first average 12 more runs than chasers
-- Tools: MySQL • Excel • Power BI
+- Analyzed 255,759 ball-by-ball deliveries across 16 IPL seasons (2008–2024)
+- Built interactive 3-page Power BI dashboard with batting and bowling analysis
+- Key insight: 2022–23 run explosion driven by team expansion (10 teams), not just batting aggression
+- Tools: MySQL • Power BI • Excel
 
-### 🛒 E-Commerce Sales Analysis (Coming Soon)
-- Brazilian e-commerce dataset — 100K+ real orders
-- Customer segmentation using RFM analysis
-- Tools: MySQL • Excel • Power BI
+### 🛒 Olist E-Commerce Analysis
+- Analyzed 99,441 real orders across 8 relational tables from Brazil's largest marketplace
+- Identified R$13.59M revenue breakdown by category, state, and seller performance
+- Key insight: 7,000+ late deliveries concentrated in SP and RJ — actionable logistics finding
+- Tools: MySQL • Python (Pandas) • Power BI
 
 ## 📈 Currently Learning
-- Advanced DAX for Power BI
-- Python for Data Analysis
+- Python for Data Analysis (Pandas, Matplotlib)
 - Statistics for Data Science
 
 ## 📫 Contact
 Open to remote Data Analyst opportunities
-Location:Burdwan, West Bengal, India
+Location: Burdwan, West Bengal, India
