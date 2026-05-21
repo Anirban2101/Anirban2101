@@ -56,4 +56,4 @@ Exploratory Data Analysis, Feature Engineering, Business Intelligence, Data Clea
 Open to remote Data Analyst opportunities
 Location: Burdwan, West Bengal, India
 
-## Available immediately. Actively seeking remote Data Analyst opportunities across finance, e-commerce, healthcare, and technology domains.
+## Available immediately. Actively seeking remote Data Analyst opportunities across different domains.
