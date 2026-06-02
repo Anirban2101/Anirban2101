@@ -1,7 +1,7 @@
 # Hi, I'm Anirban 👋
 ## Data Analyst | SQL • Python • Power BI • Excel | Burdwan, India
 
-I build end-to-end data analytics solutions — from raw data collection to business dashboards. I work across finance, e-commerce, and sports domains using SQL, Python, Power BI, and Excel. Currently seeking remote Data Analyst opportunities where I can contribute from day one.
+Data Analyst skilled in SQL, Python, Power BI, and Excel, with experience transforming raw datasets into business insights and interactive dashboards. Portfolio projects span finance, e-commerce, sports analytics, and public-policy data, with a focus on data storytelling, exploratory analysis, and decision support.
 
 ## 🛠️ Skills
 ![SQL](https://img.shields.io/badge/SQL-MySQL-blue)
@@ -17,6 +17,17 @@ Microsoft Power BI (DAX, Power Query, Data Modeling), Microsoft Excel (Pivot Tab
 Exploratory Data Analysis, Feature Engineering, Business Intelligence, Data Cleaning, Statistical Analysis
 
 ## 📊 Projects
+
+### 🗳️ Tamil Nadu Assembly Election Analysis (2021–2026)
+## "How did a party that didn't exist five years earlier win 108 seats in its first election?"
+* Analyzed constituency-level election results across 234 Assembly constituencies to identify vote-share shifts, seat flips, regional trends, and changes in voter behavior between 2021 and 2026.
+* 163 of 234 constituencies changed winning party — a 70% flip rate indicating a major political realignment
+* TVK secured 108 seats in its debut election, drawing support from DMK, AIADMK, INC, and other parties simultaneously
+* Chennai Metro recorded a 94% constituency flip rate and the highest TVK vote share at 47%
+* Combined DMK–AIADMK vote share fell from 72% to 45%, reshaping Tamil Nadu's traditional two-party structure
+* TVK won 23 of 44 SC-reserved constituencies, demonstrating broad support across voter segments
+* Tools: Python (pandas, numpy, matplotlib) • Excel • Power BI
+
 
 ### 📈 Global Stock Market Intelligence — 10-Year Multi-Market Analysis
 ## "₹1,00,000 in US stocks in 2016 → ₹30,88,770 today. Same in Indian stocks → ₹4,63,886. What explains the 6.7x gap?"
